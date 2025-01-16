@@ -1,0 +1,1160 @@
+body,div {
+	/*font-family: Arial, Helvetica, sans-serif, Tahoma, Comic Sans MS;
+	font-size: 12px;
+	color: #323232;
+	*/
+}
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.left_part h1{
+	font-size: 19px;
+
+}
+.arialB12_003366 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #003366;
+	text-decoration: none;
+}
+.arialN11_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+a.arialN11_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+
+a.arialN11_323232:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: underline;
+}
+.arialB12_1c1c1c {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #1c1c1c;
+	text-decoration: none;
+}
+a.arialB12_1c1c1c:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: none;
+}
+.arialB12_fff {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #fff;
+	text-decoration: none;
+}
+a.arialB12_fff:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #ffc400;
+	text-decoration: none;
+}
+.arialB23_fff {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 23px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #fff;
+	text-decoration: none;
+}
+.arialB32_fff {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 32px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #fff;
+	text-decoration: none;
+}
+.arialN12_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+a.arialN12_323232:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: underline;
+}
+.arialB12_28505D {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: none;
+}
+a.arialB12_28505D:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: underline;
+}
+.arialN12_b68315 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #b68315;
+	text-decoration: none;
+}
+a.arialN12_b68315:hover{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #b68315;
+	text-decoration: underline;
+}
+.arialN_12_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+.inbox{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	background:#eceeef;
+	border:1px solid #c8c8c8;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #7c7d7d;
+	text-decoration: none;
+}
+.arialN_9_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+a.arial_12bb9c5cf {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+a.arial_12bb9c5cf:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: underline;
+}
+
+.arial_12b254c69 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+
+a.arial_12b254c69 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+
+a.arial_12b254c69:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: underline;
+}
+
+.arial_14b254c69 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+
+.arial_12b595959 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #595959;
+	text-decoration: none;
+}
+
+.arial_12n323232{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+
+.arial_12b323232{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+
+.arial_12bfe0017{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #fe0017;
+	text-decoration: none;
+}
+
+.arial_16b28506d{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: none;
+}
+
+.arial_16b516f10{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #516f10;
+	text-decoration: none;
+}
+
+.arialB14_28505D {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: none;
+}
+.arial_12bfe0017{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #fe0017;
+	text-decoration: none;
+}
+
+.arial_16b28506d{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: none;
+}
+
+.arial_16b516f10{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #516f10;
+	text-decoration: none;
+}
+
+.arial_12n393a37{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #393a37;
+	text-decoration: none;
+}
+
+.arial_50n28506d{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 50px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: none;
+}
+
+.arial_12b4e7000{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size:12x;
+	font-style: normal;
+	line-height: normal;
+	font-weight:bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #4e7000;
+	text-decoration: none;
+}
+
+.arial_26b4e7000{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size:26x;
+	font-style: normal;
+	line-height: normal;
+	font-weight:bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #4e7000;
+	text-decoration: none;
+}
+
+.arial_26b254c69 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 26px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+.arialB12u_28505D {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: underline;
+}
+a.arialB12u_28505D {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: underline;
+}
+a.arialB12u_28505D:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: none;
+}
+
+.arialB14_323232{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+a.arialB14_323232:hover{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: underline;
+}
+.arialN12_28505D {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: none;
+}
+.arialN14_323232{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+.arialNU12_28506d {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: underline;
+}
+a.arialNU12_28506d:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: none;
+}
+.century_gothic_5028506d {
+	font-family:"Century Gothic", Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 50px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: none;
+}
+.arialNU14_29516E {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: underline;
+}
+.arialNU14_29516E {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: none;
+}
+
+
+a.arialB95_254c69 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 9.5pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+a.arialB95_254c69:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 9.5pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: underline;
+}
+
+a.arialB85_254c69 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 8.5pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+a.arialB85_254c69:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 8.5pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: underline;
+}
+
+.arialB14_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+
+.arialB21_fff {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 21px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #fff;
+	text-decoration: none;
+}
+
+.arialB24_28506d {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 24px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #28506d;
+	text-decoration: none;
+}
+
+.arialB14_FFFFFF {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+/*....................24/11/2008.................*/
+
+.arialB9_918d8d {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #918d8d;
+	text-decoration: none;
+}
+
+.arialB9_494949 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #494949;
+	text-decoration: none;
+}
+
+.arialN10_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+
+a.arialN10_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+
+a.arialN10_323232:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #28505D;
+	text-decoration: underline;
+}
+
+
+.arialN11_9e9c9c {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #9e9c9c;
+	text-decoration: none;
+}
+a.arialN11_9e9c9c:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #9e9c9c;
+	text-decoration: underline;
+}
+.arialB12_959595 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #959595;
+	text-decoration: none;
+}
+a.arialB12_959595:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #959595;
+	text-decoration: underline;
+}
+/*....................24/11/2008.................*/
+
+.arialB11_494949{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #494949;
+	text-decoration: none;
+}
+
+.arial_11b254c69{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+.arial_11n323232{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+/****************08-12-08*******************************/
+.arial_18nfff{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #fff;
+	text-decoration: none;
+}
+.arial_12nfff{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #fff;
+	text-decoration: none;
+}
+.arial_12N254c69 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+a.arial_11n323232:hover{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: underline;
+}
+a.arial_12n323232:hover{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: underline;
+}
+.arial_11n254c69{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: none;
+}
+a.arial_11n254c69:hover{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: underline;
+}
+a.arialB11_494949:hover{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #494949;
+	text-decoration: underline;
+}
+
+/****************08-12-08*******************************/
+/****************15-12-08*******************************/
+.arialN18_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+
+.arialBU12_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: underline;
+}
+a.arialBU12_323232:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+.arialNU12_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: underline;
+}
+a.arialNU12_323232:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+a.arial_12N254c69:hover {
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #254c69;
+	text-decoration: underline;
+}
+
+.arial_10bfe0017{
+	font-family: Arial, Helvetica, sans-serif, Tahoma;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #fe0017;
+	text-decoration: none;
+}
+.inbox_new{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 12px;
+	background:#eceeef;
+	border:1px solid #c8c8c8;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: none;
+}
+.arialNU11_323232 {
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration: underline;
+}
+a.arialNU11_323232:hover{
+	font-family: Arial, Helvetica, sans-serif, Tahoma, "Comic Sans MS";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #323232;
+	text-decoration:none;
+}
+/****************15-12-08*******************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footerlink {
+	font-size:9pt;	
+	font-family:Arial, Helvetica, sans-serif;		
+	color:#ADC3CA;
+}
+A.footerlink:link { color: #ADC3CA;text-decoration:underline; } 
+A.footerlink:visited { color: #ADC3CA; text-decoration:underline; } 
+A.footerlink:active { color: #ADC3CA; text-decoration:underline; } 
+A.footerlink:hover { color: #ADC3CA;text-decoration:none; }     		
+
+.footerlink2 {
+	font-size:9pt;	
+	font-family:Arial, Helvetica, sans-serif;	
+	color:#ADC3CA;	
+}
+A.footerlink2:link { color: #ADC3CA;text-decoration:none; } 
+A.footerlink2:visited { color: #ADC3CA; text-decoration:none; } 
+A.footerlink2:active { color: #ADC3CA; text-decoration:none; } 
+A.footerlink2:hover { color: #ADC3CA;text-decoration:underline; }     		
+
+.copyright_n {
+	font-size:11pt;	
+	font-family:Arial, Helvetica, sans-serif;		
+	color:#337BAD;
+}
+
+.middlebuttons_title{
+color:#005691;			
+font-size:14pt;	
+font-family:Arial, Helvetica, sans-serif;					
+text-align:left;			
+}
+
+.middlebuttons_text{
+color:#676767;			
+font-size:13pt;	
+font-family:Arial, Helvetica, sans-serif;
+text-align:left;			
+			
+}
+
+
+.top_tag {
+color:#005691;
+font-family:Arial, Helvetica, sans-serif;
+font-size:25pt;
+font-weight:bold;			
+}
+
+.bottom_tag {
+color:#013D66;
+font-family:Arial, Helvetica, sans-serif;
+font-size:17pt;
+font-weight:bold;	
+		
+}
+
+.main_copy {
+color:#414040;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13pt;
+font-weight:normal;				
+} 
+
+
+
+

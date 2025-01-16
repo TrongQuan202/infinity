@@ -1,0 +1,10 @@
+.selectedanchor{}
+.anylinkcss{position:absolute;left:0px;top:0;visibility:hidden;border:1px solid #aaaaaa;font-family:Calibri;;font-size:13.5pt;line-height:16px;z-index:100;background:white;width:150px;margin-left:-40px;}
+.anylinkcss ul{margin:0;padding:0;list-style-type:none;}
+.anylinkcss ul li a{width:100%;display:block;padding:18px 0;text-decoration:none;font-weight:normal;text-indent:40px;color:#aaaaaa;}
+.anylinkcss a:hover{background:#cccccc;color:black;text-decoration:underline;border-radius: 8px 8px 8px 8px;}
+.anylinkcsscols{position:absolute;left:0;top:0;visibility:hidden;border:1px solid black;padding:10px;font:normal 12px Verdana;z-index:100;background:#DEFFCA;}
+.anylinkcsscols .column{width:130px;float:left;}
+.anylinkcsscols .column ul{margin:0;padding:0;list-style-type:none;}
+.anylinkcsscols li{padding-bottom:3px;}
+.anylinkshadow{position:absolute;left:0;top:0;z-index:99;background:black;visibility:hidden;}
