@@ -1,0 +1,101 @@
+@charset "UTF-8";
+body { font-family: Arial, Helvetica, sans-serif; ; color: #323232; }
+a {color:#254c69;}
+img { border:0px;}
+h2 { font-size:16px; color:#254C69;}
+.clear { clear: both; }
+.wrapper { text-align: left;width:100%; max-width: 980px; margin-right: auto; margin-left: auto; }
+.header { margin-bottom: 15px; float: left; }
+#logo { display: block; height: 64px; width: 328px; float: left; }
+#logo h1 { background-image: url(../images/logo.jpg); height: 64px; width: 328px; }
+.right-top { float:right; width: 98px; }
+#head-rt { float: left; width: 300px; padding-left: 25px; }
+#head-rt p { font-style: italic; font-weight: bold; color: #003366; font-size: 12px; }
+#head-rt h3 { font-style: italic; font-weight: bold; color: #003366; font-size: 12px; }
+.faq { width:150px; float: left; } 
+.phone { float: left; width: 150px; }
+.phone img { display: block; float: left; padding-top: 5px; padding-right: 5px; }
+#navbar { background-image: url(../images/main-nav-bg.jpg); background-repeat: no-repeat; background-position: left top; clear: both; height: 42px; width: 755px; }
+.order-bg { background-image: url(../images/order-bg.jpg); background-repeat: no-repeat; margin: 0px!important; padding: 0px!important; height: 42px; width: 105px; float: right; }
+.order-bg a { display:block; font-weight:700; height:29px; text-decoration:none; text-align:center; color:#333; padding-top: 13px; padding-right: 5px; padding-bottom: 0; padding-left: 5px; }
+.order-bg a:hover { color:#fff;}
+#nav { margin: 0px; padding: 0px; list-style-type: none; }
+#nav li { float:left; display:block; position:relative; z-index:500; margin-top: 0; margin-right: 1px; margin-bottom: 0; margin-left: 1px; padding-right: 30px; padding-left: 8px; padding-top: 5px; }
+#nav li a { display:block; font-weight:700; height:29px; text-decoration:none; text-align:center; color:#fff; padding-top: 8px; padding-right: 5px; padding-bottom: 0; padding-left: 5px; }
+#nav li a:hover { color:#fff!important; }
+/* you can make a different style for default selected value */
+#nav a.selected {color:#f00;}
+/* submenu, it's hidden by default */
+#nav ul {position:absolute; 
+			left:0; 
+			display:none; 
+			margin:0 0 0 -1px; 
+			padding:0; 
+			list-style:none;
+		}
+
+
+
+
+#nav ul li { width:125px; float:left; background-image: url(../images/child-bg.jpg); background-repeat: repeat-x; background-position: left top; }
+/* display block will make the link fill the whole area of LI */
+#wide-nav ul li {width:180px!important;}
+#nav ul a { display:block; height:15px; color: #f7ce49; text-align: center; padding-top: 8px; padding-right: 0px; padding-bottom: 8px; padding-left: 15px; }
+#nav ul a:hover { text-decoration:none; }
+/* fix ie6 small issue */
+/* we should always avoid using hack like this */
+/* should put it into separate file : ) */
+*html #nav ul {
+margin:0 0 0 -2px;
+}
+.search_box{ font-size: 12px; border:1px solid #c8c8c8; color: #7c7d7d; text-decoration: none; background-color: #eceeef; background-image: url(../images/img_searchicon.gif); background-repeat: no-repeat; background-position: right 2px; }
+#promo-sidebar { float: right; width: 162px; margin-top: 15px; }
+#featured p { padding: 0px; margin-top: 5px; margin-bottom: 5px; }
+#featured h3 { font-size: 120%; font-weight: bolder; color: #254C69; }
+#featured a { color: #254C69; text-decoration: none; }
+#featured a:hover { text-decoration: underline; }
+.main-content {width:100%;max-width: 700px;}
+.main-banner { background-image: url(../images/main-banner.jpg); background-repeat: no-repeat; background-position: center top; height: 315px; width: 593px; }
+.main-banner h1 { font-size: 19px; font-weight: bold; padding: 0px; margin-top: 15px; }
+.click-preview { float: right; height: 58px; width: 263px; padding-top: 175px; padding-right: 50px; }
+.punch-box { width:185px; margin-top: 15px; float: left; padding-right: 5px; padding-left: 5px; }
+.punch-box img { float: left; padding-right: 5px; }
+.punch-box h2 { width:115px; font-size:13px; float: left; margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-weight: bolder; }
+.punch-box p { clear:left;}
+.wwb-products { clear:both; margin-bottom: 25px; }
+.wwb-products td { padding-left: 10px; padding-top: 15px; padding-bottom: 15px; border: 1px solid #EDEDED; }
+.wwb-products td h2 { font-size: 16px; }
+.testimonial-box { width: 200px; padding-right: 15px; padding-left: 15px; }
+.testimonial-box span { text-align: center; }
+.testimonial-box span a { font-size: 14px; font-weight: bold; color: #00F; }
+.spacer25 { clear: both; height: 25px; }
+.success-col2 { float: right; width: 350px; }
+.success-col2 span { font-size:10px; }
+.success-col1 { width:350px; float: left; } 
+.col-content h2 { float: left; width: 250px; margin: 0px; padding: 0px; }
+.col-content img { float: left; padding-right: 10px; vertical-align: middle; display: block; }
+.col-heading { font-weight: bold; color: #254c69; font-size: 13px; }
+.instance-but { text-align:center; margin-bottom: 15px; }
+.copy { color:#FFF; clear: both; padding-top: 15px; }
+.wbi-recommends { margin-bottom:15px;}
+.partner-content-top { background-image: url(https://worldwidebrands.com/images/partner-content-top.jpg); background-position: left bottom; height: 38px; width: 585px; }
+.partner-content-main { background-image: url(https://worldwidebrands.com/images/partner-content-bg.jpg); background-repeat: repeat-y; background-position: left top; width: 585px; overflow:hidden; }
+.partner-content-bot { background-image: url(https://worldwidebrands.com/images/partner-content-bot.jpg); background-repeat: no-repeat; background-position: left top; height: 42px; width: 585px; margin-bottom:25px; }
+.partner-content-main h2 { font-size: 18px; color: #3366cc; margin-top:15px; }
+.service-box { width:245px; float:right; padding:15px;}
+.padding15 { padding:15px;}
+
+
+
+
+#dhtmltooltip{
+position: absolute;
+width: 150px;
+border: 2px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
