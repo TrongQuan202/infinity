@@ -32,6 +32,16 @@
     box-sizing: border-box;
 } 
 
+.footer li {
+  text-align: left;
+  padding: 5px 0;
+  list-style-type: disc;
+  list-style-position: outside;
+  color: white;
+}
+.footer li  a{
+  color: white;
+}
 div { 
     margin: 0; 
     padding: 0; 
@@ -190,9 +200,26 @@ header {
 	  display: block !important;
   }
 } 
-
-
-  
+@media only screen and (min-width: 1100px) { 
+  .footer .footer-child {
+    width: 25%;
+  }
+} 
+@media only screen and (min-width: 900px) and (max-width: 1090px){ 
+  .footer .footer-child {
+    width: 40%;
+  }
+} 
+@media only screen and (min-width: 700px) and (max-width: 899px){ 
+  .footer .footer-child {
+    width: 50%;
+  }
+} 
+@media only screen and (max-width: 699px){ 
+  .footer .footer-child {
+    width: 60%;
+  }
+}  
 
 span { 
     margin: 0; 
@@ -1358,14 +1385,11 @@ Non-English translations of this Policy are provided for convenience only to tho
 <div style="width:100%;clear:both;">
 
 </div>
-
-	<div class="footer">
-	</div>
 </div>                
 </div>
-<div class="footer" style="margin-left: auto; margin-right: auto;">
+<div class="footer" style="margin-left: auto; margin-right: auto; background-color: #00385b;">
 
-<div style="display: flex; width: 25%; justify-content: space-between;">
+<div class = "footer-child" style="display: flex; justify-content: space-between; padding-top: 4%; padding-bottom: 4%;">
 	<div>
 		<ul>
 			<li class=""><a href="/about-us/index.html">About Us</a></li>
